@@ -8,7 +8,7 @@
 <section>
   <div>
     <br>
-    <img align="left" height="300" width="600"src="https://github.com/JapaScripter/Project_Send_Whatsapp/blob/main/assets/Whats_Message.png" />
+    <img align="left" height="300" width="500"src="https://github.com/JapaScripter/Project_Send_Whatsapp/blob/main/assets/Whats_Message.png" />
     <h3 align="justify">"Este projeto tem o intuito de enviar mensagens pelo whatsapp."</h3>
     <br>
     <h3 align="justify">"The function from this project is send messages from whatsapp"</h3>
